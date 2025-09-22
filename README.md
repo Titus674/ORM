@@ -4,6 +4,9 @@
 ## AIM
 To develop a Django application to store and retrieve data from Car Inventory Database using Object Relational Mapping(ORM).
 
+## ENTITY RELATIONSHIP DIAGRAM
+
+<img width="877" height="609" alt="image" src="https://github.com/user-attachments/assets/be46ca26-4cb2-4242-99e7-870cdfcc131f" />
 
 ## DESIGN STEPS
 
